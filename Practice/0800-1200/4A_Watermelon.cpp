@@ -1,4 +1,5 @@
 /*
+ * -----------------------------------------------------------------------------
  * Platform:    Codeforces
  * Problem:     4A - Watermelon
  * Contest ID:  4
@@ -7,10 +8,11 @@
  * Runtime:     62 ms
  * Memory:      100 KB
  * Difficulty:  800
+ * Tags:        brute force, math
  * Solved:      2026-07-22 02:13:08
  * URL:         https://codeforces.com/problemset/problem/4/A
+ * -----------------------------------------------------------------------------
  */
-
 #include <iostream>
 
 using namespace std;
