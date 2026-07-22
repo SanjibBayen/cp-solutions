@@ -1,4 +1,5 @@
 /*
+ * -----------------------------------------------------------------------------
  * Platform:    Codeforces
  * Problem:     2242B - Predominant Frequency Division
  * Contest ID:  2242
@@ -7,10 +8,11 @@
  * Runtime:     78 ms
  * Memory:      0 KB
  * Difficulty:  1000
+ * Tags:        data structures, greedy, implementation, math
  * Solved:      2026-07-21 02:16:36
  * URL:         https://codeforces.com/problemset/problem/2242/B
+ * -----------------------------------------------------------------------------
  */
-
 #include <bits/stdc++.h>
 using namespace std;
 
