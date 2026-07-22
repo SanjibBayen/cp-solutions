@@ -1,4 +1,5 @@
 /*
+ * -----------------------------------------------------------------------------
  * Platform:    Codeforces
  * Problem:     71A - Way Too Long Words
  * Contest ID:  71
@@ -7,10 +8,11 @@
  * Runtime:     46 ms
  * Memory:      0 KB
  * Difficulty:  800
+ * Tags:        strings
  * Solved:      2026-07-22 02:33:39
  * URL:         https://codeforces.com/problemset/problem/71/A
+ * -----------------------------------------------------------------------------
  */
-
 #include <iostream>
 #include <string>
 
