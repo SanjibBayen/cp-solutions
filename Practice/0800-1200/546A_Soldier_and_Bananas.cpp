@@ -1,4 +1,5 @@
 /*
+ * -----------------------------------------------------------------------------
  * Platform:    Codeforces
  * Problem:     546A - Soldier and Bananas
  * Contest ID:  546
@@ -7,10 +8,11 @@
  * Runtime:     31 ms
  * Memory:      100 KB
  * Difficulty:  800
+ * Tags:        brute force, implementation, math
  * Solved:      2026-07-20 20:28:24
  * URL:         https://codeforces.com/problemset/problem/546/A
+ * -----------------------------------------------------------------------------
  */
-
 #include <bits/stdc++.h>
 using namespace std;
 
