@@ -26,9 +26,9 @@ void solve(){
     }
     x = cost - n;
     if(cost > n)
-        cout << x << endl;
+        cout << x << "\n";
     else
-        cout << 0 << endl;
+        cout << 0 << "\n";
     
 }
 
