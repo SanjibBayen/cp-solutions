@@ -22,7 +22,7 @@ void solve() {
     string expession;
     cin >> expession;
     int a = expession[0] - 48, b = expession[2] - 48;
-    cout << a + b << endl;
+    cout << a + b << "\n";
 
 
 }
