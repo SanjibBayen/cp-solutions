@@ -1,7 +1,7 @@
 /*
  * -----------------------------------------------------------------------------
  * Platform:    Codeforces
- * Problem:     2247B - Yet Another Constructive
+ * Problem:     2247B - Yet Another Constructive 2
  * Contest ID:  2247
  * Verdict:     OK
  * Language:    C++23 (GCC 14-64, msys2)
